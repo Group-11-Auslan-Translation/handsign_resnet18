@@ -72,6 +72,10 @@ This project uses the **ResNet18** architecture to classify grayscale hand signs
 ### W&B reports for testing and training are included in this repository in .pdf format:
 - ResNet18_handsign_train_W&B.pdf
 - ResNet18_handsign_test_W&B.pdf
+
+### Other Logs
+- training.log
+- testing.log
   
 After completing training and testing, detailed results, including metrics and visualizations, can be viewed on Weights & Biases (W&B). To view the W&B report:
 
