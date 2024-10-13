@@ -61,6 +61,6 @@ def split_dataset(data_dir, output_dir, train_ratio=0.7, val_ratio=0.15, random_
 
 
 # Example usage:
-data_dir = r"C:\Users\zed20\Documents\Auslan_dataset\dataset_R_G_blur"
-output_dir = r"C:\Users\zed20\Documents\Auslan_dataset\dataset_split"
+data_dir = r"C:\Users\...\Auslan_dataset\dataset_R_G_blur"
+output_dir = r"C:\Users\...\Auslan_dataset\dataset_split"
 split_dataset(data_dir, output_dir)
